@@ -1,1 +1,2 @@
 # bigdata_weather
+这是一个关于Python写的全球天气情况查询的小程序
